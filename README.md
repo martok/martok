@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-I'm Sebastian (he/him), a (computational) materials scientist with a side of embedded measurement development who does a lot of open source development in this free time.
+I'm Sebastian (he/him), a (computational) materials scientist with a side of embedded measurement development who does a lot of open source development in his free time.
 
 Previous contributions: [Free Pascal](https://www.freepascal.org/), [LAMMPS](https://www.lammps.org), [Lazarus](http://lazarus-ide.org/), [Pale Moon](http://www.palemoon.org/) and many others.
 
